@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Miner Dindin",
+    "slug": "miner-dindin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "minerdindin",
+    "newArchEnabled": true,
+    "plugins": ["expo-router", "expo-notifications"],
+    "android": { "package": "com.grupowillames.minerdindin", "versionCode": 1 },
+    "experiments": { "typedRoutes": true }
+  }
+}
